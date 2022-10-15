@@ -9,6 +9,10 @@ public class FirstClass
         private  int number;
 
         number=1+1;
+<<<<<<< HEAD
+=======
+
+>>>>>>> feature
         System.out.println( "name" );
         System.out.println( "number");
 } 
