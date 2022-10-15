@@ -8,6 +8,8 @@ public class FirstClass
         private  String name;
         private  int number;
 
+        number=1+1;
+
         System.out.println( "name" );
         System.out.println( "number");
 } 
